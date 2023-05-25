@@ -21,7 +21,7 @@
 
 
   3- What is the output of the following C program?
-   Aşağıdaki C programının çıktısı nedir?
+   AÃ¾aÃ°Ã½daki C programÃ½nÃ½n Ã§Ã½ktÃ½sÃ½ nedir?
 
    int fun (int n)
    {
@@ -63,9 +63,9 @@
     5- . In recursion, the condition for which
     the function will stop calling itself is
     a) Best case (En iyi durum)
-    b) Worst case (En kötü durum)
+    b) Worst case (En kÃ¶tÃ¼ durum)
     c) Base case (Temel durum)
-    d) There is no such condition (Böyle bir durum yoktur)
+    d) There is no such condition (BÃ¶yle bir durum yoktur)
 
     cevap C
 
